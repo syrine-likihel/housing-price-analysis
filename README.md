@@ -1,2 +1,12 @@
-# housing-price-analysis
-Housing price prediction using Python and Pandas
+# Housing Price Analysis
+
+Data analysis pipeline to explore housing price trends.
+
+## Technologies
+- Python
+- Pandas
+- Matplotlib
+
+## Description
+Performed data cleaning, exploratory analysis and visualization
+to identify key pricing factors from a CSV dataset.
